@@ -1,746 +1,1120 @@
-{"plugins": [
-  {
-    "packageName": "com.techmind09.1porn",
-    "name": "1porn",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.1porn.com",
-    "description": "Premium plugin for com.techmind09.1porn",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.1porn.sky"
-  },
-  {
-    "packageName": "com.techmind09.1pron",
-    "name": "1pron",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.1pron.com",
-    "description": "Premium plugin for com.techmind09.1pron",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.1pron.sky"
-  },
-  {
-    "packageName": "com.techmind09.777",
-    "name": "777",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.777.com",
-    "description": "Premium plugin for com.techmind09.777",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.777.sky"
-  },
-  {
-    "packageName": "com.techmind09.Bustybus",
-    "name": "Bustybus",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.Bustybus.com",
-    "description": "Premium plugin for com.techmind09.Bustybus",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.Bustybus.sky"
-  },
-  {
-    "packageName": "com.techmind09.animepron",
-    "name": "animepron",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.animepron.com",
-    "description": "Premium plugin for com.techmind09.animepron",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.animepron.sky"
-  },
-  {
-    "packageName": "com.techmind09.badtv",
-    "name": "badtv",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.badtv.com",
-    "description": "Premium plugin for com.techmind09.badtv",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.badtv.sky"
-  },
-  {
-    "packageName": "com.techmind09.bigfuck",
-    "name": "bigfuck",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.bigfuck.com",
-    "description": "Premium plugin for com.techmind09.bigfuck",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.bigfuck.sky"
-  },
-  {
-    "packageName": "com.techmind09.comic24",
-    "name": "comic24",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.comic24.com",
-    "description": "Premium plugin for com.techmind09.comic24",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.comic24.sky"
-  },
-  {
-    "packageName": "com.techmind09.comicsvalley",
-    "name": "comicsvalley",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.comicsvalley.com",
-    "description": "Premium plugin for com.techmind09.comicsvalley",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.comicsvalley.sky"
-  },
-  {
-    "packageName": "com.techmind09.eporner",
-    "name": "eporner",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.eporner.com",
-    "description": "Premium plugin for com.techmind09.eporner",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.eporner.sky"
-  },
-  {
-    "packageName": "com.techmind09.exeporn",
-    "name": "exeporn",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.exeporn.com",
-    "description": "Premium plugin for com.techmind09.exeporn",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.exeporn.sky"
-  },
-  {
-    "packageName": "com.techmind09.fpoxxx",
-    "name": "fpoxxx",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.fpoxxx.com",
-    "description": "Premium plugin for com.techmind09.fpoxxx",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.fpoxxx.sky"
-  },
-  {
-    "packageName": "com.techmind09.freepronvideos",
-    "name": "freepronvideos",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.freepronvideos.com",
-    "description": "Premium plugin for com.techmind09.freepronvideos",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.freepronvideos.sky"
-  },
-  {
-    "packageName": "com.techmind09.fullpronxxx",
-    "name": "fullpronxxx",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.fullpronxxx.com",
-    "description": "Premium plugin for com.techmind09.fullpronxxx",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.fullpronxxx.sky"
-  },
-  {
-    "packageName": "com.techmind09.happypron",
-    "name": "happypron",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.happypron.com",
-    "description": "Premium plugin for com.techmind09.happypron",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.happypron.sky"
-  },
-  {
-    "packageName": "com.techmind09.hdpronfree",
-    "name": "hdpronfree",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.hdpronfree.com",
-    "description": "Premium plugin for com.techmind09.hdpronfree",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.hdpronfree.sky"
-  },
-  {
-    "packageName": "com.techmind09.hindipron",
-    "name": "hindipron",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.hindipron.com",
-    "description": "Premium plugin for com.techmind09.hindipron",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.hindipron.sky"
-  },
-  {
-    "packageName": "com.techmind09.hornyhill",
-    "name": "hornyhill",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.hornyhill.com",
-    "description": "Premium plugin for com.techmind09.hornyhill",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.hornyhill.sky"
-  },
-  {
-    "packageName": "com.techmind09.hornyjav",
-    "name": "hornyjav",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.hornyjav.com",
-    "description": "Premium plugin for com.techmind09.hornyjav",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.hornyjav.sky"
-  },
-  {
-    "packageName": "com.techmind09.iwank",
-    "name": "iwank",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.iwank.com",
-    "description": "Premium plugin for com.techmind09.iwank",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.iwank.sky"
-  },
-  {
-    "packageName": "com.techmind09.javguru",
-    "name": "javguru",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.javguru.com",
-    "description": "Premium plugin for com.techmind09.javguru",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.javguru.sky"
-  },
-  {
-    "packageName": "com.techmind09.javtiful",
-    "name": "javtiful",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.javtiful.com",
-    "description": "Premium plugin for com.techmind09.javtiful",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.javtiful.sky"
-  },
-  {
-    "packageName": "com.techmind09.jennymovies",
-    "name": "jennymovies",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.jennymovies.com",
-    "description": "Premium plugin for com.techmind09.jennymovies",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.jennymovies.sky"
-  },
-  {
-    "packageName": "com.techmind09.letspron",
-    "name": "letspron",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.letspron.com",
-    "description": "Premium plugin for com.techmind09.letspron",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.letspron.sky"
-  },
-  {
-    "packageName": "com.techmind09.lobstertube",
-    "name": "lobstertube",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.lobstertube.com",
-    "description": "Premium plugin for com.techmind09.lobstertube",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.lobstertube.sky"
-  },
-  {
-    "packageName": "com.techmind09.mature_tube",
-    "name": "mature_tube",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.mature_tube.com",
-    "description": "Premium plugin for com.techmind09.mature_tube",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.mature_tube.sky"
-  },
-  {
-    "packageName": "com.techmind09.maxpron",
-    "name": "maxpron",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.maxpron.com",
-    "description": "Premium plugin for com.techmind09.maxpron",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.maxpron.sky"
-  },
-  {
-    "packageName": "com.techmind09.megatube",
-    "name": "megatube",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.megatube.com",
-    "description": "Premium plugin for com.techmind09.megatube",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.megatube.sky"
-  },
-  {
-    "packageName": "com.techmind09.milfmovs",
-    "name": "milfmovs",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.milfmovs.com",
-    "description": "Premium plugin for com.techmind09.milfmovs",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.milfmovs.sky"
-  },
-  {
-    "packageName": "com.techmind09.milfporn",
-    "name": "milfporn",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.milfporn.com",
-    "description": "Premium plugin for com.techmind09.milfporn",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.milfporn.sky"
-  },
-  {
-    "packageName": "com.techmind09.missav",
-    "name": "missav",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.missav.com",
-    "description": "Premium plugin for com.techmind09.missav",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.missav.sky"
-  },
-  {
-    "packageName": "com.techmind09.onlybestporn",
-    "name": "onlybestporn",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.onlybestporn.com",
-    "description": "Premium plugin for com.techmind09.onlybestporn",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.onlybestporn.sky"
-  },
-  {
-    "packageName": "com.techmind09.perfectgirls",
-    "name": "perfectgirls",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.perfectgirls.com",
-    "description": "Premium plugin for com.techmind09.perfectgirls",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.perfectgirls.sky"
-  },
-  {
-    "packageName": "com.techmind09.pervezila",
-    "name": "pervezila",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.pervezila.com",
-    "description": "Premium plugin for com.techmind09.pervezila",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.pervezila.sky"
-  },
-  {
-    "packageName": "com.techmind09.porn4fans",
-    "name": "porn4fans",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.porn4fans.com",
-    "description": "Premium plugin for com.techmind09.porn4fans",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.porn4fans.sky"
-  },
-  {
-    "packageName": "com.techmind09.porndae",
-    "name": "porndae",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.porndae.com",
-    "description": "Premium plugin for com.techmind09.porndae",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.porndae.sky"
-  },
-  {
-    "packageName": "com.techmind09.porndoe",
-    "name": "porndoe",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.porndoe.com",
-    "description": "Premium plugin for com.techmind09.porndoe",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.porndoe.sky"
-  },
-  {
-    "packageName": "com.techmind09.porndr",
-    "name": "porndr",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.porndr.com",
-    "description": "Premium plugin for com.techmind09.porndr",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.porndr.sky"
-  },
-  {
-    "packageName": "com.techmind09.pornhd3x",
-    "name": "pornhd3x",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.pornhd3x.com",
-    "description": "Premium plugin for com.techmind09.pornhd3x",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.pornhd3x.sky"
-  },
-  {
-    "packageName": "com.techmind09.pornoflix",
-    "name": "pornoflix",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.pornoflix.com",
-    "description": "Premium plugin for com.techmind09.pornoflix",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.pornoflix.sky"
-  },
-  {
-    "packageName": "com.techmind09.porntv",
-    "name": "porntv",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.porntv.com",
-    "description": "Premium plugin for com.techmind09.porntv",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.porntv.sky"
-  },
-  {
-    "packageName": "com.techmind09.pornvov",
-    "name": "pornvov",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.pornvov.com",
-    "description": "Premium plugin for com.techmind09.pornvov",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.pornvov.sky"
-  },
-  {
-    "packageName": "com.techmind09.pron36",
-    "name": "pron36",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.pron36.com",
-    "description": "Premium plugin for com.techmind09.pron36",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.pron36.sky"
-  },
-  {
-    "packageName": "com.techmind09.prondish",
-    "name": "prondish",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.prondish.com",
-    "description": "Premium plugin for com.techmind09.prondish",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.prondish.sky"
-  },
-  {
-    "packageName": "com.techmind09.prongrey",
-    "name": "prongrey",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.prongrey.com",
-    "description": "Premium plugin for com.techmind09.prongrey",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.prongrey.sky"
-  },
-  {
-    "packageName": "com.techmind09.pronhat",
-    "name": "pronhat",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.pronhat.com",
-    "description": "Premium plugin for com.techmind09.pronhat",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.pronhat.sky"
-  },
-  {
-    "packageName": "com.techmind09.pronmz",
-    "name": "pronmz",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.pronmz.com",
-    "description": "Premium plugin for com.techmind09.pronmz",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.pronmz.sky"
-  },
-  {
-    "packageName": "com.techmind09.pronohd",
-    "name": "pronohd",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.pronohd.com",
-    "description": "Premium plugin for com.techmind09.pronohd",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.pronohd.sky"
-  },
-  {
-    "packageName": "com.techmind09.pronsex",
-    "name": "pronsex",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.pronsex.com",
-    "description": "Premium plugin for com.techmind09.pronsex",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.pronsex.sky"
-  },
-  {
-    "packageName": "com.techmind09.prontasia",
-    "name": "prontasia",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.prontasia.com",
-    "description": "Premium plugin for com.techmind09.prontasia",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.prontasia.sky"
-  },
-  {
-    "packageName": "com.techmind09.pronzog",
-    "name": "pronzog",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.pronzog.com",
-    "description": "Premium plugin for com.techmind09.pronzog",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.pronzog.sky"
-  },
-  {
-    "packageName": "com.techmind09.roshytv",
-    "name": "roshytv",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.roshytv.com",
-    "description": "Premium plugin for com.techmind09.roshytv",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.roshytv.sky"
-  },
-  {
-    "packageName": "com.techmind09.thepornbang",
-    "name": "thepornbang",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.thepornbang.com",
-    "description": "Premium plugin for com.techmind09.thepornbang",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.thepornbang.sky"
-  },
-  {
-    "packageName": "com.techmind09.theyarehuge",
-    "name": "theyarehuge",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.theyarehuge.com",
-    "description": "Premium plugin for com.techmind09.theyarehuge",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.theyarehuge.sky"
-  },
-  {
-    "packageName": "com.techmind09.vepron",
-    "name": "vepron",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.vepron.com",
-    "description": "Premium plugin for com.techmind09.vepron",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.vepron.sky"
-  },
-  {
-    "packageName": "com.techmind09.watchomovies",
-    "name": "watchomovies",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.watchomovies.com",
-    "description": "Premium plugin for com.techmind09.watchomovies",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.watchomovies.sky"
-  },
-  {
-    "packageName": "com.techmind09.xmovieforyou",
-    "name": "xmovieforyou",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.xmovieforyou.com",
-    "description": "Premium plugin for com.techmind09.xmovieforyou",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.xmovieforyou.sky"
-  },
-  {
-    "packageName": "com.techmind09.xprimehub",
-    "name": "xprimehub",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.xprimehub.com",
-    "description": "Premium plugin for com.techmind09.xprimehub",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.xprimehub.sky"
-  },
-  {
-    "packageName": "com.techmind09.xxxbp",
-    "name": "xxxbp",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.xxxbp.com",
-    "description": "Premium plugin for com.techmind09.xxxbp",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.xxxbp.sky"
-  },
-  {
-    "packageName": "com.techmind09.youjizz",
-    "name": "youjizz",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.youjizz.com",
-    "description": "Premium plugin for com.techmind09.youjizz",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.youjizz.sky"
-  },
-  {
-    "packageName": "com.techmind09.youperv",
-    "name": "youperv",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.youperv.com",
-    "description": "Premium plugin for com.techmind09.youperv",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.youperv.sky"
-  },
-  {
-    "packageName": "com.techmind09.zbporn",
-    "name": "zbporn",
-    "version": 1,
-    "baseUrl": "https://www.com.techmind09.zbporn.com",
-    "description": "Premium plugin for com.techmind09.zbporn",
-    "authors": ["techmind09"],
-    "languages": ["en" "hi"],
-    "categories": ["NSFW"],
-    "isAdult": true,
-    "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/com.techmind09.zbporn.sky"
-  }
-]}
+{
+  "plugins": [
+    {
+      "packageName": "1porn",
+      "name": "1porn",
+      "version": 1,
+      "baseUrl": "https://www.1porn.com",
+      "description": "Premium plugin for 1porn",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/1porn.sky"
+    },
+    {
+      "packageName": "1pron",
+      "name": "1pron",
+      "version": 1,
+      "baseUrl": "https://www.1pron.com",
+      "description": "Premium plugin for 1pron",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/1pron.sky"
+    },
+    {
+      "packageName": "777",
+      "name": "777",
+      "version": 1,
+      "baseUrl": "https://www.777.com",
+      "description": "Premium plugin for 777",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/777.sky"
+    },
+    {
+      "packageName": "Bustybus",
+      "name": "Bustybus",
+      "version": 1,
+      "baseUrl": "https://www.Bustybus.com",
+      "description": "Premium plugin for Bustybus",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/Bustybus.sky"
+    },
+    {
+      "packageName": "animepron",
+      "name": "animepron",
+      "version": 1,
+      "baseUrl": "https://www.animepron.com",
+      "description": "Premium plugin for animepron",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/animepron.sky"
+    },
+    {
+      "packageName": "badtv",
+      "name": "badtv",
+      "version": 1,
+      "baseUrl": "https://www.badtv.com",
+      "description": "Premium plugin for badtv",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/badtv.sky"
+    },
+    {
+      "packageName": "bigfuck",
+      "name": "bigfuck",
+      "version": 1,
+      "baseUrl": "https://www.bigfuck.com",
+      "description": "Premium plugin for bigfuck",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/bigfuck.sky"
+    },
+    {
+      "packageName": "comic24",
+      "name": "comic24",
+      "version": 1,
+      "baseUrl": "https://www.comic24.com",
+      "description": "Premium plugin for comic24",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/comic24.sky"
+    },
+    {
+      "packageName": "comicsvalley",
+      "name": "comicsvalley",
+      "version": 1,
+      "baseUrl": "https://www.comicsvalley.com",
+      "description": "Premium plugin for comicsvalley",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/comicsvalley.sky"
+    },
+    {
+      "packageName": "eporner",
+      "name": "eporner",
+      "version": 1,
+      "baseUrl": "https://www.eporner.com",
+      "description": "Premium plugin for eporner",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/eporner.sky"
+    },
+    {
+      "packageName": "exeporn",
+      "name": "exeporn",
+      "version": 1,
+      "baseUrl": "https://www.exeporn.com",
+      "description": "Premium plugin for exeporn",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/exeporn.sky"
+    },
+    {
+      "packageName": "fpoxxx",
+      "name": "fpoxxx",
+      "version": 1,
+      "baseUrl": "https://www.fpoxxx.com",
+      "description": "Premium plugin for fpoxxx",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/fpoxxx.sky"
+    },
+    {
+      "packageName": "freepronvideos",
+      "name": "freepronvideos",
+      "version": 1,
+      "baseUrl": "https://www.freepronvideos.com",
+      "description": "Premium plugin for freepronvideos",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/freepronvideos.sky"
+    },
+    {
+      "packageName": "fullpronxxx",
+      "name": "fullpronxxx",
+      "version": 1,
+      "baseUrl": "https://www.fullpronxxx.com",
+      "description": "Premium plugin for fullpronxxx",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/fullpronxxx.sky"
+    },
+    {
+      "packageName": "happypron",
+      "name": "happypron",
+      "version": 1,
+      "baseUrl": "https://www.happypron.com",
+      "description": "Premium plugin for happypron",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/happypron.sky"
+    },
+    {
+      "packageName": "hdpronfree",
+      "name": "hdpronfree",
+      "version": 1,
+      "baseUrl": "https://www.hdpronfree.com",
+      "description": "Premium plugin for hdpronfree",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/hdpronfree.sky"
+    },
+    {
+      "packageName": "hindipron",
+      "name": "hindipron",
+      "version": 1,
+      "baseUrl": "https://www.hindipron.com",
+      "description": "Premium plugin for hindipron",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/hindipron.sky"
+    },
+    {
+      "packageName": "hornyhill",
+      "name": "hornyhill",
+      "version": 1,
+      "baseUrl": "https://www.hornyhill.com",
+      "description": "Premium plugin for hornyhill",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/hornyhill.sky"
+    },
+    {
+      "packageName": "hornyjav",
+      "name": "hornyjav",
+      "version": 1,
+      "baseUrl": "https://www.hornyjav.com",
+      "description": "Premium plugin for hornyjav",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/hornyjav.sky"
+    },
+    {
+      "packageName": "iwank",
+      "name": "iwank",
+      "version": 1,
+      "baseUrl": "https://www.iwank.com",
+      "description": "Premium plugin for iwank",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/iwank.sky"
+    },
+    {
+      "packageName": "javguru",
+      "name": "javguru",
+      "version": 1,
+      "baseUrl": "https://www.javguru.com",
+      "description": "Premium plugin for javguru",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/javguru.sky"
+    },
+    {
+      "packageName": "javtiful",
+      "name": "javtiful",
+      "version": 1,
+      "baseUrl": "https://www.javtiful.com",
+      "description": "Premium plugin for javtiful",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/javtiful.sky"
+    },
+    {
+      "packageName": "jennymovies",
+      "name": "jennymovies",
+      "version": 1,
+      "baseUrl": "https://www.jennymovies.com",
+      "description": "Premium plugin for jennymovies",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/jennymovies.sky"
+    },
+    {
+      "packageName": "letspron",
+      "name": "letspron",
+      "version": 1,
+      "baseUrl": "https://www.letspron.com",
+      "description": "Premium plugin for letspron",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/letspron.sky"
+    },
+    {
+      "packageName": "lobstertube",
+      "name": "lobstertube",
+      "version": 1,
+      "baseUrl": "https://www.lobstertube.com",
+      "description": "Premium plugin for lobstertube",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/lobstertube.sky"
+    },
+    {
+      "packageName": "mature_tube",
+      "name": "mature_tube",
+      "version": 1,
+      "baseUrl": "https://www.mature_tube.com",
+      "description": "Premium plugin for mature_tube",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/mature_tube.sky"
+    },
+    {
+      "packageName": "maxpron",
+      "name": "maxpron",
+      "version": 1,
+      "baseUrl": "https://www.maxpron.com",
+      "description": "Premium plugin for maxpron",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/maxpron.sky"
+    },
+    {
+      "packageName": "megatube",
+      "name": "megatube",
+      "version": 1,
+      "baseUrl": "https://www.megatube.com",
+      "description": "Premium plugin for megatube",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/megatube.sky"
+    },
+    {
+      "packageName": "milfmovs",
+      "name": "milfmovs",
+      "version": 1,
+      "baseUrl": "https://www.milfmovs.com",
+      "description": "Premium plugin for milfmovs",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/milfmovs.sky"
+    },
+    {
+      "packageName": "milfporn",
+      "name": "milfporn",
+      "version": 1,
+      "baseUrl": "https://www.milfporn.com",
+      "description": "Premium plugin for milfporn",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/milfporn.sky"
+    },
+    {
+      "packageName": "missav",
+      "name": "missav",
+      "version": 1,
+      "baseUrl": "https://www.missav.com",
+      "description": "Premium plugin for missav",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/missav.sky"
+    },
+    {
+      "packageName": "onlybestporn",
+      "name": "onlybestporn",
+      "version": 1,
+      "baseUrl": "https://www.onlybestporn.com",
+      "description": "Premium plugin for onlybestporn",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/onlybestporn.sky"
+    },
+    {
+      "packageName": "perfectgirls",
+      "name": "perfectgirls",
+      "version": 1,
+      "baseUrl": "https://www.perfectgirls.com",
+      "description": "Premium plugin for perfectgirls",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/perfectgirls.sky"
+    },
+    {
+      "packageName": "pervezila",
+      "name": "pervezila",
+      "version": 1,
+      "baseUrl": "https://www.pervezila.com",
+      "description": "Premium plugin for pervezila",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/pervezila.sky"
+    },
+    {
+      "packageName": "porn4fans",
+      "name": "porn4fans",
+      "version": 1,
+      "baseUrl": "https://www.porn4fans.com",
+      "description": "Premium plugin for porn4fans",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/porn4fans.sky"
+    },
+    {
+      "packageName": "porndae",
+      "name": "porndae",
+      "version": 1,
+      "baseUrl": "https://www.porndae.com",
+      "description": "Premium plugin for porndae",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/porndae.sky"
+    },
+    {
+      "packageName": "porndoe",
+      "name": "porndoe",
+      "version": 1,
+      "baseUrl": "https://www.porndoe.com",
+      "description": "Premium plugin for porndoe",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/porndoe.sky"
+    },
+    {
+      "packageName": "porndr",
+      "name": "porndr",
+      "version": 1,
+      "baseUrl": "https://www.porndr.com",
+      "description": "Premium plugin for porndr",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/porndr.sky"
+    },
+    {
+      "packageName": "pornhd3x",
+      "name": "pornhd3x",
+      "version": 1,
+      "baseUrl": "https://www.pornhd3x.com",
+      "description": "Premium plugin for pornhd3x",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/pornhd3x.sky"
+    },
+    {
+      "packageName": "pornoflix",
+      "name": "pornoflix",
+      "version": 1,
+      "baseUrl": "https://www.pornoflix.com",
+      "description": "Premium plugin for pornoflix",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/pornoflix.sky"
+    },
+    {
+      "packageName": "porntv",
+      "name": "porntv",
+      "version": 1,
+      "baseUrl": "https://www.porntv.com",
+      "description": "Premium plugin for porntv",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/porntv.sky"
+    },
+    {
+      "packageName": "pornvov",
+      "name": "pornvov",
+      "version": 1,
+      "baseUrl": "https://www.pornvov.com",
+      "description": "Premium plugin for pornvov",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/pornvov.sky"
+    },
+    {
+      "packageName": "pron36",
+      "name": "pron36",
+      "version": 1,
+      "baseUrl": "https://www.pron36.com",
+      "description": "Premium plugin for pron36",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/pron36.sky"
+    },
+    {
+      "packageName": "prondish",
+      "name": "prondish",
+      "version": 1,
+      "baseUrl": "https://www.prondish.com",
+      "description": "Premium plugin for prondish",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/prondish.sky"
+    },
+    {
+      "packageName": "prongrey",
+      "name": "prongrey",
+      "version": 1,
+      "baseUrl": "https://www.prongrey.com",
+      "description": "Premium plugin for prongrey",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/prongrey.sky"
+    },
+    {
+      "packageName": "pronhat",
+      "name": "pronhat",
+      "version": 1,
+      "baseUrl": "https://www.pronhat.com",
+      "description": "Premium plugin for pronhat",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/pronhat.sky"
+    },
+    {
+      "packageName": "pronmz",
+      "name": "pronmz",
+      "version": 1,
+      "baseUrl": "https://www.pronmz.com",
+      "description": "Premium plugin for pronmz",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/pronmz.sky"
+    },
+    {
+      "packageName": "pronohd",
+      "name": "pronohd",
+      "version": 1,
+      "baseUrl": "https://www.pronohd.com",
+      "description": "Premium plugin for pronohd",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/pronohd.sky"
+    },
+    {
+      "packageName": "pronsex",
+      "name": "pronsex",
+      "version": 1,
+      "baseUrl": "https://www.pronsex.com",
+      "description": "Premium plugin for pronsex",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/pronsex.sky"
+    },
+    {
+      "packageName": "prontasia",
+      "name": "prontasia",
+      "version": 1,
+      "baseUrl": "https://www.prontasia.com",
+      "description": "Premium plugin for prontasia",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/prontasia.sky"
+    },
+    {
+      "packageName": "pronzog",
+      "name": "pronzog",
+      "version": 1,
+      "baseUrl": "https://www.pronzog.com",
+      "description": "Premium plugin for pronzog",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/pronzog.sky"
+    },
+    {
+      "packageName": "roshytv",
+      "name": "roshytv",
+      "version": 1,
+      "baseUrl": "https://www.roshytv.com",
+      "description": "Premium plugin for roshytv",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/roshytv.sky"
+    },
+    {
+      "packageName": "thepornbang",
+      "name": "thepornbang",
+      "version": 1,
+      "baseUrl": "https://www.thepornbang.com",
+      "description": "Premium plugin for thepornbang",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/thepornbang.sky"
+    },
+    {
+      "packageName": "theyarehuge",
+      "name": "theyarehuge",
+      "version": 1,
+      "baseUrl": "https://www.theyarehuge.com",
+      "description": "Premium plugin for theyarehuge",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/theyarehuge.sky"
+    },
+    {
+      "packageName": "vepron",
+      "name": "vepron",
+      "version": 1,
+      "baseUrl": "https://www.vepron.com",
+      "description": "Premium plugin for vepron",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/vepron.sky"
+    },
+    {
+      "packageName": "watchomovies",
+      "name": "watchomovies",
+      "version": 1,
+      "baseUrl": "https://www.watchomovies.com",
+      "description": "Premium plugin for watchomovies",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/watchomovies.sky"
+    },
+    {
+      "packageName": "xmovieforyou",
+      "name": "xmovieforyou",
+      "version": 1,
+      "baseUrl": "https://www.xmovieforyou.com",
+      "description": "Premium plugin for xmovieforyou",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/xmovieforyou.sky"
+    },
+    {
+      "packageName": "xprimehub",
+      "name": "xprimehub",
+      "version": 1,
+      "baseUrl": "https://www.xprimehub.com",
+      "description": "Premium plugin for xprimehub",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/xprimehub.sky"
+    },
+    {
+      "packageName": "xxxbp",
+      "name": "xxxbp",
+      "version": 1,
+      "baseUrl": "https://www.xxxbp.com",
+      "description": "Premium plugin for xxxbp",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/xxxbp.sky"
+    },
+    {
+      "packageName": "youjizz",
+      "name": "youjizz",
+      "version": 1,
+      "baseUrl": "https://www.youjizz.com",
+      "description": "Premium plugin for youjizz",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/youjizz.sky"
+    },
+    {
+      "packageName": "youperv",
+      "name": "youperv",
+      "version": 1,
+      "baseUrl": "https://www.youperv.com",
+      "description": "Premium plugin for youperv",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/youperv.sky"
+    },
+    {
+      "packageName": "zbporn",
+      "name": "zbporn",
+      "version": 1,
+      "baseUrl": "https://www.zbporn.com",
+      "description": "Premium plugin for zbporn",
+      "authors": [
+        "techmind09"
+      ],
+      "languages": [
+        "en","hi"
+      ],
+      "categories": [
+        "NSFW"
+      ],
+      "isAdult": true,
+      "url": "https://raw.githubusercontent.com/techmind09/sky/main/dist/zbporn.sky"
+    }
+  ]
+}
