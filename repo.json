@@ -4,6 +4,6 @@
   "description": "Plugins To Watch Anything From Anywhere",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/techmind09/sky/main/dist/plugins.json"
+"https://raw.githubusercontent.com/techmind09/sky/dist/plugins.json"
   ]
 }
