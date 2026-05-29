@@ -1,5 +1,4 @@
-{
-  "plugins": [
+{"plugins": [
     {
       "packageName": "com.techmind09.1porn",
       "name": "com.techmind09.1porn",
@@ -372,5 +371,4 @@
       "version": 1,
       "url": "https://raw.githubusercontent.com/techmind09/sky/repo/dist/com.techmind09.zbporn.sky"
     }
-  ]
-}
+]}
