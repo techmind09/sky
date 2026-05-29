@@ -4,7 +4,7 @@
       "packageName": "com.techmind09.1porn",
       "name": "1porn",
       "version": 1,
-      "baseUrl": "https://www.com.techmind09.1porn.com",
+      "baseUrl": "https://www.1porn.com",
       "description": "Premium plugin for 1porn",
       "authors": ["techmind09"],
       "languages": ["en", "hi"],
@@ -14,3 +14,4 @@
     }
   ]
 }
+
