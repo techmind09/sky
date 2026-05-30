@@ -1,6 +1,6 @@
 {
 "name": "techmind Repo",
-  "packageName": "techmind.sky.repo",
+  "packageName": "com.techmind09.repo",
   "description": "Plugins To Watch Anything From Anywhere",
   "manifestVersion": 1,
   "pluginLists": [
